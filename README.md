@@ -15,7 +15,7 @@ Para el estilo de la página web he seleccionado una triada de colores utilizand
 Con la herramienta de edición [Moqups](https://moqups.com) realice prototipos para dar a conocer un poco el concepto que tenía pensado para realizar el diseño de la web, dividiendo la web en cuatro secciones:
 
 
-* [Pagina principal](https://github.com/luz20026/iaw22-learning-github/blob/main/principal.png)
-* [Eventos](https://github.com/luz20026/iaw22-learning-github/blob/main/secundaria.png)
-* [Contacto](https://github.com/luz20026/iaw22-learning-github/blob/main/Contacto.png)
-* [Registro](https://github.com/luz20026/iaw22-learning-github/blob/main/registro.png)
+* [Pagina principal](https://github.com/LuzMaria22/salvar-los-libros/tree/main/img_readme/principal.png)
+* [Eventos](https://github.com/LuzMaria22/salvar-los-libros/tree/main/img_readme/secundaria.png)
+* [Contacto](https://github.com/LuzMaria22/salvar-los-libros/tree/main/img_readme/Contacto.png)
+* [Registro](https://github.com/LuzMaria22/salvar-los-libros/tree/main/img_readme/registro.png)
